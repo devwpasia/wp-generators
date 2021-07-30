@@ -8,3 +8,6 @@
 
 ## Author
 [Tareq Hasan](http://tareq.wedevs.com)
+
+
+http://projects.tareq.co/wp-generator/index.php
